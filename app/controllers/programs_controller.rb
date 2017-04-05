@@ -1,6 +1,6 @@
 class ProgramsController < ApplicationController
   def home
-    # Your code goes here.
+    # Your code goes below.
 
     @your_output = "Replace this string with your output"
 
@@ -8,7 +8,7 @@ class ProgramsController < ApplicationController
   end
 
   def first_program
-    # Your code goes here.
+    # Your code goes below.
 
     @your_output = "Replace this string with your output"
 
@@ -16,7 +16,7 @@ class ProgramsController < ApplicationController
   end
 
   def second_program
-    # Your code goes here.
+    # Your code goes below.
 
     @your_output = "Replace this string with your output"
 
@@ -26,7 +26,7 @@ class ProgramsController < ApplicationController
   def third_program
     numbers = (1..999).to_a
 
-    # Your code goes here.
+    # Your code goes below.
 
     @your_output = "Replace this string with your output"
 
