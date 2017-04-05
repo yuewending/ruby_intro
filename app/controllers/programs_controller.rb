@@ -24,6 +24,8 @@ class ProgramsController < ApplicationController
   end
 
   def third_program
+    numbers = (1..999).to_a
+
     # Your code goes here.
 
     @your_output = "Replace this string with your output"
